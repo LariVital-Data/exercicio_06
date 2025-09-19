@@ -11,7 +11,9 @@ envolvendo criação de tabelas, inserção de dados, consultas e análise de de
    ├── consultas_exercicios.sql
    └── desafio.sql
    ├── docs/
-     └── desafio_resolucao.md
+     	└── desafio_resolucao.md
+	└── Desafio.png
+
    └── README.md
 ```
 ## Estrutura dos arquivos
@@ -57,6 +59,11 @@ ORDER BY AVG(mat.nota) DESC;
 | Arquivo | Descrição |
 |---------|-----------|
 | docs/desafio_resolucao.md | Respostas, explicações e sugestões de melhoria do desafio |
+| docs/Desafio.png| Imagem com o desafio proposto |
+
+## Desafio Original
+
+![Print do desafio](docs/Desafio.png)
 
 ## Como usar
 
